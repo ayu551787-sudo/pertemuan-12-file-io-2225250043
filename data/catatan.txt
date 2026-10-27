@@ -1,0 +1,3 @@
+algoritma dan pemrograman
+pertemuan 12
+latihan append berhasil.
